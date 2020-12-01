@@ -3,7 +3,16 @@
 3.  numero <-- 1
 4.  Haga_Hasta 
 5.     Escribir numero
-7.     numero <-- numero +1
-8.  Fin Haga_Hasta (numero <= 1)
-9.  Escribir numero
+6.     numero <-- numero +1
+7.  Fin Haga_Hasta (numero <= 1)
+8.  Escribir numero
 9.  Fin
+El haga hasta si o si se va ejecutar almenos 1 vez entonces empieza entrando 
+al ciclo y en la linea 5 presenta en pantalla el valor de numero que es 1,
+luego en la linea 6 numero aumenta +1; 1+1=2 y en la linea 7, 2 <= 1 es falso,
+entonces sale del ciclo y se ejecuta la linea 8 que en este caso numero quedo valiendo
+2 y se mostraria en pantalla el numero 2
+
+Se mostraria en pantalla:
+1
+2
