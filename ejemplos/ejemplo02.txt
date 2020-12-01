@@ -4,3 +4,5 @@
 4.   Escribir "La edad ingresada pertenece a mayor de edad"
 5. Fin si
 6. Fin
+Hay un error debido a que edad no tiene ningun valor asignado
+//La salida de este ejemplos es:
