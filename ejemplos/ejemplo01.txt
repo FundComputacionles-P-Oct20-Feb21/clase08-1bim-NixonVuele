@@ -7,3 +7,4 @@
 7. Leer edad2 // 20
 8. Escribir "Edades "+ edad+edad2 +" ."
 9. Fin
+La salida es: Edades 3020 .

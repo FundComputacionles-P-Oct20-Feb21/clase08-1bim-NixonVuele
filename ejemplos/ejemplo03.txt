@@ -3,10 +3,14 @@
 3.  sueldo, i[0,n]
 4.  edad <-- 21
 5.  Si edad >= 10 and edad <=20 entonces
-6.    sueldo <- 400  
+6.    sueldo <- 400
 7.  Fin si
 8.  Si edad > 21 entonces
 9.    sueldo <- 500  
 10.  Fin si
 11. Escribir "El sueldo es :" + sueldo
 12.  Fin
+En primer lugar habria un error en el codigo debido a que sueldo no tiene un valor asignado al inicio
+y cuando se vaya a ejecutar el codigo ninguna condicional se cumple, por ende sueldo se quedara
+sin valor que asignar. generando un erros al momento de mostrar en pantalla
+
