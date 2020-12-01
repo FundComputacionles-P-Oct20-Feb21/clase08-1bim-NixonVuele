@@ -7,3 +7,11 @@
 9.  Fin Mientras"
 10. << n
 11. Fin
+En la linea 4 como en el ciclo repetitivo mientras, si se cumple la condicion entra
+al ciclo y se muestra en pantalla el valor de n que en este caso es 2, luego n aumenta +1
+entonces 2+1=3 despues vuelve al ciclo mientras a comprobar si se cumple la condicion, tonces
+3<=2 falso entonces sale del ciclo y escribe el valor de n que quedo valiendo 3
+
+Se mostrara en pantalla:
+2
+3
