@@ -7,3 +7,9 @@
 9.  Fin Mientras"
 10. << n
 11. Fin
+En la linea 4 cuando n es =2 y no se cumple la condicion de la linea 4
+no entra al ciclo repetitivo mientras y solo pasa a presentar en pantalla
+el valor que este en n en este caso 2
+
+Se mostrara en pantalla:
+2
