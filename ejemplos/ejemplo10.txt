@@ -23,32 +23,32 @@
 1. Inicio
 2. contador, i[0, n]
 3. cadenaFinal, x(200)[{1-33},{a-z},{A-Z}, {/}]
-3. nombres, x(200)[{1-33},{a-z},{A-Z}, {/}]
-3. apellidos, x(200)[{1-33},{a-z},{A-Z}, {/}]
-4. cadenaNombre, x(200)[{1-33},{a-z},{A-Z}, {/}]
-5. cadenaApellido, x(200)[{1-33},{a-z},{A-Z}, {/}]
-6. cadenaNombre <-- ""
-7. cadenaApellido <-- ""
-8. cadenaFinal <-- ""
-contador <-- 0
-9. promedio, d[0, n]
-10. int edad, i[0, n]
-11. sumaEdad,i[0, n]
-12. sumaEdad<--0
-13. Para(int i <--1, i <= 4, 1) haga
-14.	Escribir "Ingrese su nombre"
-15.	Leer nombres
-16.	Escribir "Ingrese su apellido"
-17.	Leer apellidos
-18.	Escribir "Ingrese su edad"
-19.	Leer edad
-20.	contador <--contador+1
-21.	sumaEdad <-- sumaEdad + edad
-22.	cadenaNombre <-- cadenaNombre+ "Nombre: "+ nombres + "\n"
-23.	cadenaApellido <-- cadenaApellido + "Apellido: "+ apellidos+ "\n"
-24. Fin_Para
-25. promedio <--sumaEdad/contador
-26. Escribir cadenaNombre+"\n"+cadenaApellido+"\nPromedio de edades: "+promedio
-27. Fin
+4. nombres, x(200)[{1-33},{a-z},{A-Z}, {/}]
+5. apellidos, x(200)[{1-33},{a-z},{A-Z}, {/}]
+6. cadenaNombre, x(200)[{1-33},{a-z},{A-Z}, {/}]
+7. cadenaApellido, x(200)[{1-33},{a-z},{A-Z}, {/}]
+8. cadenaNombre <-- ""
+9. cadenaApellido <-- ""
+10. cadenaFinal <-- ""
+11. contador <-- 0
+12. promedio, d[0, n]
+13. int edad, i[0, n]
+14. sumaEdad,i[0, n]
+15. sumaEdad<--0
+16. Para(int i <--1, i <= 4, 1) haga
+17.	Escribir "Ingrese su nombre"
+18.	Leer nombres
+19.	Escribir "Ingrese su apellido"
+20.	Leer apellidos
+21.	Escribir "Ingrese su edad"
+22.	Leer edad
+23.	contador <--contador+1
+24.	sumaEdad <-- sumaEdad + edad
+25.	cadenaNombre <-- cadenaNombre+ "Nombre: "+ nombres + "\n"
+26.	cadenaApellido <-- cadenaApellido + "Apellido: "+ apellidos+ "\n"
+27. Fin_Para
+28. promedio <--sumaEdad/contador
+29. Escribir cadenaNombre+"\n"+cadenaApellido+"\nPromedio de edades: "+promedio
+30. Fin
 
 
